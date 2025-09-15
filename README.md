@@ -71,4 +71,4 @@ Deploy as a Flask or Django web application for real-time usage.
 
 This project was developed as part of my learning in Data Science and Machine Learning. Through this, I understood how text preprocessing, NLP, and supervised learning models can be combined to build a working spam detection system.
 
-✍️ Created by Mursal Mateen | BS IT – Spam Detection Project
+✍️ Created by Mursal Mateen | Semester Project– Spam Detection Project
